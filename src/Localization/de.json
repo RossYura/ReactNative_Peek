@@ -1,0 +1,129 @@
+{
+  "Currencies": {
+    "eur": "Euro",
+    "usd": "Dollar",
+    "chf": "Schweizer Franken",
+    "dkk": "Dänische Kronen",
+    "gbp": "Pfund Sterling",
+    "sek": "Schwedische Kronen",
+    "pln": "Złoty",
+    "czk": "Tschechische Kronen",
+    "huf": "Forint",
+    "bgn": "Lew",
+    "ron": "Rumänischer Leu"
+  },
+  "CashFlows": {
+    "income": "Einkommen",
+    "fixcost": "Fixkosten",
+    "flexcost": "Flexkosten"
+  },
+  "Frequencies": {
+    "once": "Einmalig",
+    "2weeks": "Alle 2 Wochen",
+    "month": "Monatlich",
+    "2months": "Alle 2 Monate",
+    "quarter": "Vierteljährlich",
+    "halfYear": "Halbjährlich",
+    "year": "Jährlich"
+  },
+  "FrequenciesEntryLabels": {
+    "once": "einmalig",
+    "2weeks": "alle 2 Wochen",
+    "month": "monatlich",
+    "2months": "alle 2 Monate",
+    "quarter": "vierteljährlich",
+    "halfYear": "halbjährlich",
+    "year": "jährlich"
+  },
+  "Splash": {
+    "appName": "Peek",
+    "button": "Let's go"
+  },
+  "Dashboard": {
+    "sheetHeadline": "Monatsbilanz"
+  },
+  "Amount": {
+    "title": "Betrag",
+    "button": "Weiter"
+  },
+  "EntryList": {
+    "createButton": {
+      "income": "Einkommen hinzufügen",
+      "fixcost": "Fixkosten hinzufügen",
+      "flexcost": "Flexkosten hinzufügen"
+    }
+  },
+  "EmptyList": {
+    "message": {
+      "income": "Bisher kein Einkommen hinterlegt. Unter Einkommen werden alle deine Geldeingänge (Gehälter, Zuschüsse...) gesammelt.",
+      "fixcost": "Bisher keine Fixkosten hinterlegt. Fixkosten sind alle deine regelmäßigen Zahlungen (Miete, Strom, Gas, Telefon, feste Raten...).",
+      "flexcost": "Bisher keine Flexkosten hinterlegt. Flexkosten sind deine flexiblen Ausgaben (Supermarkt-Einkäufe, Cafe-Besuche, Bekleidungskäufe, Restaurant-Besuche...)."
+    }
+  },
+  "Frequency": {
+    "title": "Häufigkeit"
+  },
+  "Naming": {
+    "title": "Bezeichnung",
+    "label": "Bezeichnung",
+    "placeholders": {
+      "income": "Name der Einnahme",
+      "fixcost": "Name der Ausgabe",
+      "flexcost": "Name der Bezeichnung"
+    },
+    "button": "Erstellen"
+  },
+  "ActionApproval": {
+    "messages": {
+      "deleting": {
+        "income": "Möchtest du das Einkommen ’{{label}}’ ({{amount}}) wirklich löschen?",
+        "fixcost": "Möchtest du die Ausgabe ’{{label}}’ ({{amount}}) wirklich löschen?",
+        "flexcost": "Möchtest du die Ausgabe ’{{label}}’ ({{amount}}) wirklich löschen?"
+      },
+      "create": {
+        "income": "Möchtest du ein Einkommen ’{{label}}’ von {{amount}} hinzufügen?",
+        "fixcost": "Möchtest du eine Ausgabe ’{{label}}’ über {{amount}} hinzufügen?",
+        "flexcost": "Hast du {{amount}} für ’{{label}}’ ausgegeben?"
+      }
+    },
+    "button": "Ja"
+  },
+  "Menu": {
+    "items": {
+      "settings": "Einstellungen",
+      "privacy": "Datenschutz",
+      "imprint": "Impressum"
+    }
+  },
+  "Settings": {
+    "title": "Einstellungen",
+    "currency": "Währung"
+  },
+  "EditEntry": {
+    "titles": {
+      "income": "Einkommen bearbeiten",
+      "fixcost": "Ausgabe bearbeiten",
+      "flexcost": "Eintrag bearbeiten"
+    },
+    "fields": {
+      "label": "Bezeichnung",
+      "amount": "Betrag",
+      "date": "Datum",
+      "frequency": "Häufigkeit"
+    },
+    "buttons": {
+      "save": "Speichern",
+      "delete": "Eintrag löschen"
+    }
+  },
+  "EditDate": {
+    "title": "Datum ändern"
+  },
+  "NewUserModal": {
+    "title": "Das erste Mal hier?",
+    "subtitle": "In unserem Hilfe Bereich findest Du Antworten auf die häufigsten Fragen."
+  },
+  "FAQ": {
+    "title": "Hilfe"
+  }
+}
